@@ -64,7 +64,7 @@ export default defineConfig({
 | 'outbase'
 | 'outExtension'
 | 'metafile'>`
-
+| '.js.
 Options to pass to esbuild during the dep scanning and optimization.
 
 Certain options are omitted since changing them would not be compatible with Vite's dep optimization.
